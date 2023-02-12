@@ -15,6 +15,8 @@ allow composite collateral types such as aTokens (Aave interest bearing tokens) 
 (Yearn interest bearing tokens) and eventually introduce exotic collateral types such as ITM
 option tokens.
 
+![](../images/joeygcamp_borrowing_flow_01.jpg)
+
 ## Typical Borrowing Flow
 
 1. Borrower opens an account and deposits collateral.
